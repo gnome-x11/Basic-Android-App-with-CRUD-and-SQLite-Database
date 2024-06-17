@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color> <!-- Example green shade -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Darker green shade -->
+    <color name="colorAccent">#8BC34A</color> <!-- Accent green shade -->
+    <color name="colorPrimaryText">#000000</color> <!-- White text for contrast -->
+    <color name="colorSecondaryText">#000000</color> <!-- Black text for secondary text -->
+    <!-- Add other colors as needed -->
+</resources>
